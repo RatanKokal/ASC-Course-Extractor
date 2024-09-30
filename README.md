@@ -1,0 +1,2 @@
+- Web Scraper to extract list of courses running in the upcoming semester from ASC Portal, IITB
+- Creates a well formatted excel file with hyperlinks to restrictions of each course
